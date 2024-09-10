@@ -1,0 +1,1866 @@
+{
+    "count": 186,
+    "items": [
+      {
+        "event_id": "000b495b-514b-46cd-832f-81deca4103cf",
+        "cutoff": 1725421800,
+        "title": "Will the amount of peaceful protests in Paraguay be above 5 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Paraguay between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in America/Asuncion timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725422400,
+        "end_date": 1725681599,
+        "answer": 1
+      },
+      {
+        "event_id": "4ae9aa61-e2c9-489a-bc73-521eb1ac2610",
+        "cutoff": 1725396600,
+        "title": "Will the amount of peaceful protests in Yemen be above 82 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 83 peaceful protests, for the country of Yemen between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in Asia/Aden timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725397200,
+        "end_date": 1725656399,
+        "answer": 1
+      },
+      {
+        "event_id": "4f108227-640c-4c8c-941b-3d2a83969e12",
+        "cutoff": 1725425400,
+        "title": "Will the amount of peaceful protests in Peru be above 6 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Peru between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in America/Lima timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725426000,
+        "end_date": 1725685199,
+        "answer": 0
+      },
+      {
+        "event_id": "592787e2-c8bc-424c-8661-4d728faab265",
+        "cutoff": 1725396600,
+        "title": "Will the amount of peaceful protests in Bahrain be above 2 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Bahrain between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in Asia/Bahrain timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725397200,
+        "end_date": 1725656399,
+        "answer": 0
+      },
+      {
+        "event_id": "77553c12-fe7b-4cf7-a979-8720d17a5c7a",
+        "cutoff": 1725382200,
+        "title": "Will the amount of peaceful protests in Indonesia be above 26 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 27 peaceful protests, for the country of Indonesia between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in Asia/Jakarta timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725382800,
+        "end_date": 1725641999,
+        "answer": 1
+      },
+      {
+        "event_id": "7cd5ccf9-8ea7-4ca0-9ad0-0dfcd493bb78",
+        "cutoff": 1725414600,
+        "title": "Will the amount of peaceful protests in Brazil be above 4 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Brazil between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in America/Noronha timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725415200,
+        "end_date": 1725674399,
+        "answer": 1
+      },
+      {
+        "event_id": "d3877a31-e070-4a7d-9375-f493a7bb2b62",
+        "cutoff": 1725418200,
+        "title": "Will the amount of peaceful protests in Argentina be above 6 for the duration 2024-09-04 to 2024-09-06?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Argentina between the following dates, from 2024-09-04  00:00:00 to 2024-09-06  23:59:59 in America/Argentina/Buenos_Aires timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725418800,
+        "end_date": 1725677999,
+        "answer": 1
+      },
+      {
+        "event_id": "1e8174d0-3371-4d03-a4b0-7c0bd4f9ae39",
+        "cutoff": 1725313800,
+        "title": "Will the amount of peaceful protests in Poland be above 2 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Poland between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Europe/Warsaw timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725314400,
+        "end_date": 1725573599,
+        "answer": 1
+      },
+      {
+        "event_id": "5207802e-0cff-4efc-b40b-e01f9ac935bc",
+        "cutoff": 1725301200,
+        "title": "Will the amount of peaceful protests in India be above 187 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 188 peaceful protests, for the country of India between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Asia/Kolkata timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725301800,
+        "end_date": 1725560999,
+        "answer": 1
+      },
+      {
+        "event_id": "79729526-71b9-4aa5-9db4-9c3ced2ead3e",
+        "cutoff": 1725313800,
+        "title": "Will the amount of peaceful protests in Serbia be above 5 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Serbia between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Europe/Belgrade timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725314400,
+        "end_date": 1725573599,
+        "answer": 0
+      },
+      {
+        "event_id": "be6c8336-d9c0-43c3-a2a5-f8529ca2b9e3",
+        "cutoff": 1725313800,
+        "title": "Will the amount of peaceful protests in Czech Republic be above 0 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Czech Republic between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Europe/Prague timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725314400,
+        "end_date": 1725573599,
+        "answer": 1
+      },
+      {
+        "event_id": "dc753146-4a9c-4d0c-b558-cfb10c933a54",
+        "cutoff": 1725310200,
+        "title": "Will the amount of peaceful protests in Turkey be above 26 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 27 peaceful protests, for the country of Turkey between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Europe/Istanbul timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725310800,
+        "end_date": 1725569999,
+        "answer": 1
+      },
+      {
+        "event_id": "e3f86f45-5727-402c-a6fa-e65696c5f1c1",
+        "cutoff": 1725335400,
+        "title": "Will the amount of peaceful protests in Chile be above 11 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 12 peaceful protests, for the country of Chile between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in America/Santiago timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725336000,
+        "end_date": 1725595199,
+        "answer": 0
+      },
+      {
+        "event_id": "f8a7d344-6fd2-4edb-864b-5291a3f9755d",
+        "cutoff": 1725313800,
+        "title": "Will the amount of peaceful protests in Netherlands be above 1 for the duration 2024-09-03 to 2024-09-05?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Netherlands between the following dates, from 2024-09-03  00:00:00 to 2024-09-05  23:59:59 in Europe/Amsterdam timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725314400,
+        "end_date": 1725573599,
+        "answer": 1
+      },
+      {
+        "event_id": "068d05b1-755c-433a-a49e-5683f8dc29e4",
+        "cutoff": 1725223800,
+        "title": "Will the amount of peaceful protests in Iraq be above 8 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Iraq between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Asia/Baghdad timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725224400,
+        "end_date": 1725483599,
+        "answer": 1
+      },
+      {
+        "event_id": "09b7ecb8-a2ef-4fc3-86c3-d4cc31120d4c",
+        "cutoff": 1725231000,
+        "title": "Will the amount of peaceful protests in Portugal be above 2 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Portugal between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Europe/Lisbon timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725231600,
+        "end_date": 1725490799,
+        "answer": 0
+      },
+      {
+        "event_id": "1a3978ad-1139-48c7-9100-6acc50ed427f",
+        "cutoff": 1725227400,
+        "title": "Will the amount of peaceful protests in Belgium be above 1 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Belgium between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Europe/Brussels timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725228000,
+        "end_date": 1725487199,
+        "answer": 1
+      },
+      {
+        "event_id": "68d3ebbd-6860-4ee3-8bb5-93ad0b75bc75",
+        "cutoff": 1725227400,
+        "title": "Will the amount of peaceful protests in South Africa be above 8 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of South Africa between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Africa/Johannesburg timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725228000,
+        "end_date": 1725487199,
+        "answer": 1
+      },
+      {
+        "event_id": "6ead99e8-d93a-48bc-a357-a5bfa9336fa3",
+        "cutoff": 1725216600,
+        "title": "Will the amount of peaceful protests in Kazakhstan be above 3 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Kazakhstan between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Asia/Almaty timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725217200,
+        "end_date": 1725476399,
+        "answer": 1
+      },
+      {
+        "event_id": "bd34ff2a-565b-4837-bb99-393f39ba4c54",
+        "cutoff": 1725231000,
+        "title": "Will the amount of peaceful protests in United Kingdom be above 9 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of United Kingdom between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in Europe/London timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725231600,
+        "end_date": 1725490799,
+        "answer": 0
+      },
+      {
+        "event_id": "e60b9a39-c792-4fae-9707-c6c25f7173be",
+        "cutoff": 1725249000,
+        "title": "Will the amount of peaceful protests in Bolivia be above 10 for the duration 2024-09-02 to 2024-09-04?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Bolivia between the following dates, from 2024-09-02  00:00:00 to 2024-09-04  23:59:59 in America/La_Paz timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725249600,
+        "end_date": 1725508799,
+        "answer": 1
+      },
+      {
+        "event_id": "01350018-3eac-48c3-8d70-962856554e7f",
+        "cutoff": 1725137400,
+        "title": "Will the amount of peaceful protests in Kenya be above 8 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Kenya between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Africa/Nairobi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725138000,
+        "end_date": 1725397199,
+        "answer": 1
+      },
+      {
+        "event_id": "0ac0abb3-1e4c-4ccd-9bda-d7f4c5474e3d",
+        "cutoff": 1725141000,
+        "title": "Will the amount of peaceful protests in France be above 9 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of France between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725141600,
+        "end_date": 1725400799,
+        "answer": 1
+      },
+      {
+        "event_id": "11951adb-916c-4c26-bb86-fe87098fb0e4",
+        "cutoff": 1725137400,
+        "title": "Will the amount of peaceful protests in Israel be above 8 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Israel between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Asia/Jerusalem timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725138000,
+        "end_date": 1725397199,
+        "answer": 1
+      },
+      {
+        "event_id": "5e5f0403-7da9-4b49-b3d9-1994129d808f",
+        "cutoff": 1725141000,
+        "title": "Will the amount of peaceful protests in Denmark be above 1 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Denmark between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725141600,
+        "end_date": 1725400799,
+        "answer": 0
+      },
+      {
+        "event_id": "9d24b231-4b2c-4450-9573-6508100d2310",
+        "cutoff": 1725135600,
+        "title": "Will the amount of peaceful protests in Iran be above 30 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 31 peaceful protests, for the country of Iran between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Asia/Tehran timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725136200,
+        "end_date": 1725395399,
+        "answer": 1
+      },
+      {
+        "event_id": "a9c03a3f-01ad-4154-8f20-1f9c885d5a92",
+        "cutoff": 1725144600,
+        "title": "Will the amount of peaceful protests in Morocco be above 24 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 25 peaceful protests, for the country of Morocco between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Africa/Casablanca timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725145200,
+        "end_date": 1725404399,
+        "answer": 0
+      },
+      {
+        "event_id": "c61ae0c8-fccc-4fdb-a21a-dc9a123c0e10",
+        "cutoff": 1725144600,
+        "title": "Will the amount of peaceful protests in Tunisia be above 2 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Tunisia between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Africa/Tunis timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725145200,
+        "end_date": 1725404399,
+        "answer": 1
+      },
+      {
+        "event_id": "e92af87d-c70b-40cc-a7a2-d01497d07b02",
+        "cutoff": 1725119400,
+        "title": "Will the amount of peaceful protests in Taiwan be above 6 for the duration 2024-09-01 to 2024-09-03?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Taiwan between the following dates, from 2024-09-01  00:00:00 to 2024-09-03  23:59:59 in Asia/Taipei timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725120000,
+        "end_date": 1725379199,
+        "answer": 0
+      },
+      {
+        "event_id": "3463682c-3715-4523-96f2-bf38d9a3168a",
+        "cutoff": 1725051000,
+        "title": "Will the amount of peaceful protests in Bulgaria be above 2 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Bulgaria between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Europe/Sofia timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725051600,
+        "end_date": 1725310799,
+        "answer": 1
+      },
+      {
+        "event_id": "666d1374-2e6b-432a-98ed-63e93fd177e6",
+        "cutoff": 1725054600,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725055200,
+        "end_date": 1725314399,
+        "answer": 1
+      },
+      {
+        "event_id": "72cdb450-062c-4b69-924c-a4872b175bd9",
+        "cutoff": 1725083400,
+        "title": "Will the amount of peaceful protests in Honduras be above 4 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Honduras between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in America/Tegucigalpa timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725084000,
+        "end_date": 1725343199,
+        "answer": 0
+      },
+      {
+        "event_id": "8c4ed51b-8caa-4f8e-b587-70b7f62e7daa",
+        "cutoff": 1725043800,
+        "title": "Will the amount of peaceful protests in Pakistan be above 47 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 48 peaceful protests, for the country of Pakistan between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Asia/Karachi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725044400,
+        "end_date": 1725303599,
+        "answer": 1
+      },
+      {
+        "event_id": "98c29cf7-26fe-4fc1-9fc1-76bc46b039ab",
+        "cutoff": 1725041100,
+        "title": "Will the amount of peaceful protests in Nepal be above 8 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Nepal between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Asia/Kathmandu timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725041700,
+        "end_date": 1725300899,
+        "answer": 1
+      },
+      {
+        "event_id": "9b500d5f-5714-4c2e-a3f8-861a5a657d98",
+        "cutoff": 1725042000,
+        "title": "Will the amount of peaceful protests in Sri Lanka be above 2 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Sri Lanka between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Asia/Colombo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725042600,
+        "end_date": 1725301799,
+        "answer": 1
+      },
+      {
+        "event_id": "a9c47c7b-6816-4fed-95a1-43cde0bdb03b",
+        "cutoff": 1725051000,
+        "title": "Will the amount of peaceful protests in Palestine be above 3 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Palestine between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Asia/Gaza timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725051600,
+        "end_date": 1725310799,
+        "answer": 0
+      },
+      {
+        "event_id": "cf577198-4e04-4e78-a7ff-66fc6fa73cb3",
+        "cutoff": 1725058200,
+        "title": "Will the amount of peaceful protests in Nigeria be above 5 for the duration 2024-08-31 to 2024-09-02?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Nigeria between the following dates, from 2024-08-31  00:00:00 to 2024-09-02  23:59:59 in Africa/Lagos timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1725058800,
+        "end_date": 1725317999,
+        "answer": 0
+      },
+      {
+        "event_id": "01349695-1217-4d4e-84d5-8d32950da9a7",
+        "cutoff": 1724968200,
+        "title": "Will the amount of peaceful protests in Germany be above 9 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Germany between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Europe/Berlin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724968800,
+        "end_date": 1725227999,
+        "answer": 1
+      },
+      {
+        "event_id": "14e8210a-f65b-4b02-821c-eb309e135ec4",
+        "cutoff": 1724989800,
+        "title": "Will the amount of peaceful protests in Venezuela be above 25 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of Venezuela between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in America/Caracas timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724990400,
+        "end_date": 1725249599,
+        "answer": 0
+      },
+      {
+        "event_id": "5da799f9-d8ab-4694-b702-fc158ecc55a8",
+        "cutoff": 1724971800,
+        "title": "Will the amount of peaceful protests in Ireland be above 1 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Ireland between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Europe/Dublin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724972400,
+        "end_date": 1725231599,
+        "answer": 1
+      },
+      {
+        "event_id": "7c1f844d-6e44-4d0e-b4e2-c4b230da97a3",
+        "cutoff": 1724968200,
+        "title": "Will the amount of peaceful protests in Spain be above 8 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Spain between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Europe/Madrid timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724968800,
+        "end_date": 1725227999,
+        "answer": 0
+      },
+      {
+        "event_id": "c7b333a9-cead-4b41-b888-f6a59c384cc6",
+        "cutoff": 1724953800,
+        "title": "Will the amount of peaceful protests in Bangladesh be above 18 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 19 peaceful protests, for the country of Bangladesh between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Asia/Dhaka timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724954400,
+        "end_date": 1725213599,
+        "answer": 1
+      },
+      {
+        "event_id": "de8453b8-d594-46ad-8e3c-0f5c86f3db4e",
+        "cutoff": 1724968200,
+        "title": "Will the amount of peaceful protests in Austria be above 0 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Austria between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Europe/Vienna timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724968800,
+        "end_date": 1725227999,
+        "answer": 0
+      },
+      {
+        "event_id": "e045f9e2-ad2c-4c11-8944-003e2f8718ed",
+        "cutoff": 1724943000,
+        "title": "Will the amount of peaceful protests in South Korea be above 25 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of South Korea between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Asia/Seoul timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724943600,
+        "end_date": 1725202799,
+        "answer": 1
+      },
+      {
+        "event_id": "f2febf62-435a-4235-998b-ca384d3403f0",
+        "cutoff": 1724964600,
+        "title": "Will the amount of peaceful protests in Syria be above 9 for the duration 2024-08-30 to 2024-09-01?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Syria between the following dates, from 2024-08-30  00:00:00 to 2024-09-01  23:59:59 in Asia/Damascus timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724965200,
+        "end_date": 1725224399,
+        "answer": 1
+      },
+      {
+        "event_id": "15de0512-8113-41f7-93d9-e8d2ba924985",
+        "cutoff": 1724881800,
+        "title": "Will the amount of peaceful protests in Sweden be above 4 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Sweden between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in Europe/Stockholm timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724882400,
+        "end_date": 1725141599,
+        "answer": 1
+      },
+      {
+        "event_id": "2a08966c-5b76-4093-81fe-dcc7e026d749",
+        "cutoff": 1724878200,
+        "title": "Will the amount of peaceful protests in Romania be above 0 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Romania between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in Europe/Bucharest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724878800,
+        "end_date": 1725137999,
+        "answer": 1
+      },
+      {
+        "event_id": "3bfbda89-19b8-4a5f-99a4-e1501a8ace35",
+        "cutoff": 1724907000,
+        "title": "Will the amount of peaceful protests in Ecuador be above 1 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Ecuador between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in America/Guayaquil timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724907600,
+        "end_date": 1725166799,
+        "answer": 1
+      },
+      {
+        "event_id": "43f1d3bc-eb48-4351-9f42-74cfb62baf9c",
+        "cutoff": 1724881800,
+        "title": "Will the amount of peaceful protests in Italy be above 9 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Italy between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in Europe/Rome timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724882400,
+        "end_date": 1725141599,
+        "answer": 1
+      },
+      {
+        "event_id": "6b23d3c5-d6ac-41c1-80f9-d22faa944ce9",
+        "cutoff": 1724878200,
+        "title": "Will the amount of peaceful protests in Greece be above 0 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Greece between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in Europe/Athens timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724878800,
+        "end_date": 1725137999,
+        "answer": 1
+      },
+      {
+        "event_id": "778b2e11-f2c3-45fd-8f9a-1c02b8c064bb",
+        "cutoff": 1724907000,
+        "title": "Will the amount of peaceful protests in Colombia be above 8 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Colombia between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in America/Bogota timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724907600,
+        "end_date": 1725166799,
+        "answer": 1
+      },
+      {
+        "event_id": "af3c9dfe-b4b7-4c92-ab1a-f2276f3ea448",
+        "cutoff": 1724856600,
+        "title": "Will the amount of peaceful protests in Japan be above 9 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Japan between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in Asia/Tokyo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724857200,
+        "end_date": 1725116399,
+        "answer": 0
+      },
+      {
+        "event_id": "c0b64fca-514c-4abd-85d6-1dd3a1461bb8",
+        "cutoff": 1724903400,
+        "title": "Will the amount of peaceful protests in United States be above 42 for the duration 2024-08-29 to 2024-08-31?",
+        "description": "This event resolves to `YES` if there are at least 43 peaceful protests, for the country of United States between the following dates, from 2024-08-29  00:00:00 to 2024-08-31  23:59:59 in America/New_York timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724904000,
+        "end_date": 1725163199,
+        "answer": 1
+      },
+      {
+        "event_id": "48e7ca57-8716-4a64-9a1f-982fc5162ca2",
+        "cutoff": 1724813400,
+        "title": "Will the amount of peaceful protests in Argentina be above 7 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Argentina between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in America/Argentina/Buenos_Aires timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724814000,
+        "end_date": 1725073199,
+        "answer": 1
+      },
+      {
+        "event_id": "5f66b573-258c-44a4-ace3-33eb4e467bee",
+        "cutoff": 1724809800,
+        "title": "Will the amount of peaceful protests in Brazil be above 5 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Brazil between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in America/Noronha timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724810400,
+        "end_date": 1725069599,
+        "answer": 0
+      },
+      {
+        "event_id": "9d09f7e6-ab8d-43d6-9fcd-a9aaa11d087c",
+        "cutoff": 1724817000,
+        "title": "Will the amount of peaceful protests in Paraguay be above 6 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Paraguay between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in America/Asuncion timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724817600,
+        "end_date": 1725076799,
+        "answer": 0
+      },
+      {
+        "event_id": "a9d3569a-a1ae-4f13-9cf8-e0723ebddfba",
+        "cutoff": 1724791800,
+        "title": "Will the amount of peaceful protests in Bahrain be above 4 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Bahrain between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in Asia/Bahrain timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724792400,
+        "end_date": 1725051599,
+        "answer": 0
+      },
+      {
+        "event_id": "dab2c07b-c81c-435f-af6b-b755019656d8",
+        "cutoff": 1724777400,
+        "title": "Will the amount of peaceful protests in Indonesia be above 21 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 22 peaceful protests, for the country of Indonesia between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in Asia/Jakarta timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724778000,
+        "end_date": 1725037199,
+        "answer": 1
+      },
+      {
+        "event_id": "e12b9df5-2319-41bc-b6e8-bef3ab8d2185",
+        "cutoff": 1724791800,
+        "title": "Will the amount of peaceful protests in Yemen be above 84 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 85 peaceful protests, for the country of Yemen between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in Asia/Aden timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724792400,
+        "end_date": 1725051599,
+        "answer": 1
+      },
+      {
+        "event_id": "faf2466f-2e7f-486a-aafd-e1b094f57800",
+        "cutoff": 1724820600,
+        "title": "Will the amount of peaceful protests in Peru be above 6 for the duration 2024-08-28 to 2024-08-30?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Peru between the following dates, from 2024-08-28  00:00:00 to 2024-08-30  23:59:59 in America/Lima timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724821200,
+        "end_date": 1725080399,
+        "answer": 1
+      },
+      {
+        "event_id": "129a4a6d-0977-4887-818a-a03fe2d38bac",
+        "cutoff": 1724709000,
+        "title": "Will the amount of peaceful protests in Netherlands be above 1 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Netherlands between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Europe/Amsterdam timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724709600,
+        "end_date": 1724968799,
+        "answer": 0
+      },
+      {
+        "event_id": "3dbe59bc-8ea8-4cf7-9219-8bf2140803a2",
+        "cutoff": 1724709000,
+        "title": "Will the amount of peaceful protests in Poland be above 3 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Poland between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Europe/Warsaw timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724709600,
+        "end_date": 1724968799,
+        "answer": 1
+      },
+      {
+        "event_id": "432bd5cd-af19-413c-b665-0cc3ab4d14bf",
+        "cutoff": 1724696400,
+        "title": "Will the amount of peaceful protests in India be above 149 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 150 peaceful protests, for the country of India between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Asia/Kolkata timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724697000,
+        "end_date": 1724956199,
+        "answer": 1
+      },
+      {
+        "event_id": "52efd702-3683-4425-b59f-879980e6877e",
+        "cutoff": 1724730600,
+        "title": "Will the amount of peaceful protests in Chile be above 10 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Chile between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in America/Santiago timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724731200,
+        "end_date": 1724990399,
+        "answer": 1
+      },
+      {
+        "event_id": "687f985a-39fe-437c-b15e-f51bc4b9baae",
+        "cutoff": 1724709000,
+        "title": "Will the amount of peaceful protests in Czech Republic be above 0 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Czech Republic between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Europe/Prague timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724709600,
+        "end_date": 1724968799,
+        "answer": 1
+      },
+      {
+        "event_id": "6acbce18-8e47-4a02-94a4-998da179ba92",
+        "cutoff": 1724709000,
+        "title": "Will the amount of peaceful protests in Serbia be above 5 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Serbia between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Europe/Belgrade timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724709600,
+        "end_date": 1724968799,
+        "answer": 0
+      },
+      {
+        "event_id": "80553213-f16c-4714-a73a-8356bcb4943d",
+        "cutoff": 1724705400,
+        "title": "Will the amount of peaceful protests in Turkey be above 30 for the duration 2024-08-27 to 2024-08-29?",
+        "description": "This event resolves to `YES` if there are at least 31 peaceful protests, for the country of Turkey between the following dates, from 2024-08-27  00:00:00 to 2024-08-29  23:59:59 in Europe/Istanbul timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724706000,
+        "end_date": 1724965199,
+        "answer": 0
+      },
+      {
+        "event_id": "37942355-fa73-4b0a-8ea4-db5d63b3a134",
+        "cutoff": 1724619000,
+        "title": "Will the amount of peaceful protests in Iraq be above 9 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Iraq between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Asia/Baghdad timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724619600,
+        "end_date": 1724878799,
+        "answer": 1
+      },
+      {
+        "event_id": "3e4fd261-f58e-4a4f-82a9-47edf85111af",
+        "cutoff": 1724626200,
+        "title": "Will the amount of peaceful protests in United Kingdom be above 9 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of United Kingdom between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Europe/London timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724626800,
+        "end_date": 1724885999,
+        "answer": 0
+      },
+      {
+        "event_id": "5404ece3-130e-4b92-ad1d-caa4750890b8",
+        "cutoff": 1724626200,
+        "title": "Will the amount of peaceful protests in Portugal be above 2 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Portugal between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Europe/Lisbon timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724626800,
+        "end_date": 1724885999,
+        "answer": 0
+      },
+      {
+        "event_id": "5bd6b323-400b-4d4c-91e0-5bb4290c836b",
+        "cutoff": 1724611800,
+        "title": "Will the amount of peaceful protests in Kazakhstan be above 4 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Kazakhstan between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Asia/Almaty timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724612400,
+        "end_date": 1724871599,
+        "answer": 1
+      },
+      {
+        "event_id": "5f32484a-7b90-4886-bc09-41691896c55c",
+        "cutoff": 1724622600,
+        "title": "Will the amount of peaceful protests in Belgium be above 1 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Belgium between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Europe/Brussels timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724623200,
+        "end_date": 1724882399,
+        "answer": 0
+      },
+      {
+        "event_id": "91116891-b73b-495a-96e8-d947b3fac954",
+        "cutoff": 1724622600,
+        "title": "Will the amount of peaceful protests in South Africa be above 7 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of South Africa between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in Africa/Johannesburg timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724623200,
+        "end_date": 1724882399,
+        "answer": 1
+      },
+      {
+        "event_id": "f79c7cd6-392e-4500-9671-22ebcefa31f3",
+        "cutoff": 1724644200,
+        "title": "Will the amount of peaceful protests in Bolivia be above 10 for the duration 2024-08-26 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Bolivia between the following dates, from 2024-08-26  00:00:00 to 2024-08-28  23:59:59 in America/La_Paz timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724644800,
+        "end_date": 1724903999,
+        "answer": 1
+      },
+      {
+        "event_id": "0b68ada9-ffad-4669-b970-cf4a9281ae16",
+        "cutoff": 1724536200,
+        "title": "Will the amount of peaceful protests in Denmark be above 1 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Denmark between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724536800,
+        "end_date": 1724795999,
+        "answer": 0
+      },
+      {
+        "event_id": "3dabc57d-03fc-4624-8dc0-769f5c3cef0e",
+        "cutoff": 1724536200,
+        "title": "Will the amount of peaceful protests in France be above 10 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of France between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724536800,
+        "end_date": 1724795999,
+        "answer": 1
+      },
+      {
+        "event_id": "6a8c6d63-b159-4417-b0ce-2712e832815b",
+        "cutoff": 1724532600,
+        "title": "Will the amount of peaceful protests in Israel be above 8 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Israel between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Asia/Jerusalem timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724533200,
+        "end_date": 1724792399,
+        "answer": 1
+      },
+      {
+        "event_id": "7e702616-1fb3-4e1a-99a1-8950bd4aac53",
+        "cutoff": 1724514600,
+        "title": "Will the amount of peaceful protests in Taiwan be above 5 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Taiwan between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Asia/Taipei timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724515200,
+        "end_date": 1724774399,
+        "answer": 1
+      },
+      {
+        "event_id": "84eb5b79-c223-4d61-8720-cfdd4f32c9e4",
+        "cutoff": 1724530800,
+        "title": "Will the amount of peaceful protests in Iran be above 28 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 29 peaceful protests, for the country of Iran between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Asia/Tehran timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724531400,
+        "end_date": 1724790599,
+        "answer": 1
+      },
+      {
+        "event_id": "a54b88f2-2098-4106-9e90-c7052f5ae7a4",
+        "cutoff": 1724539800,
+        "title": "Will the amount of peaceful protests in Tunisia be above 2 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Tunisia between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Africa/Tunis timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724540400,
+        "end_date": 1724799599,
+        "answer": 1
+      },
+      {
+        "event_id": "b39ddfdc-985c-4650-a05f-3c9a902e2f4b",
+        "cutoff": 1724539800,
+        "title": "Will the amount of peaceful protests in Morocco be above 24 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 25 peaceful protests, for the country of Morocco between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Africa/Casablanca timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724540400,
+        "end_date": 1724799599,
+        "answer": 0
+      },
+      {
+        "event_id": "bfe781dc-a251-4bbb-8f19-860be793acbd",
+        "cutoff": 1724532600,
+        "title": "Will the amount of peaceful protests in Kenya be above 8 for the duration 2024-08-25 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Kenya between the following dates, from 2024-08-25  00:00:00 to 2024-08-27  23:59:59 in Africa/Nairobi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724533200,
+        "end_date": 1724792399,
+        "answer": 1
+      },
+      {
+        "event_id": "41ec3f47-b704-4dce-98bc-122a0d4ed362",
+        "cutoff": 1724436300,
+        "title": "Will the amount of peaceful protests in Nepal be above 7 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Nepal between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Asia/Kathmandu timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724436900,
+        "end_date": 1724696099,
+        "answer": 1
+      },
+      {
+        "event_id": "4a254141-15ca-4419-b535-16f36d2f5c0d",
+        "cutoff": 1724439000,
+        "title": "Will the amount of peaceful protests in Pakistan be above 45 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 46 peaceful protests, for the country of Pakistan between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Asia/Karachi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724439600,
+        "end_date": 1724698799,
+        "answer": 1
+      },
+      {
+        "event_id": "4ade08aa-9e0c-4196-b1cc-eb7b1acb094a",
+        "cutoff": 1724453400,
+        "title": "Will the amount of peaceful protests in Nigeria be above 6 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Nigeria between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Africa/Lagos timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724454000,
+        "end_date": 1724713199,
+        "answer": 0
+      },
+      {
+        "event_id": "6ed18b6b-8bcd-4a95-9e86-a9c31d3fce16",
+        "cutoff": 1724478600,
+        "title": "Will the amount of peaceful protests in Honduras be above 4 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Honduras between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in America/Tegucigalpa timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724479200,
+        "end_date": 1724738399,
+        "answer": 0
+      },
+      {
+        "event_id": "7b77435f-d60b-4b21-be6c-4fd55f92cbd7",
+        "cutoff": 1724446200,
+        "title": "Will the amount of peaceful protests in Bulgaria be above 2 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Bulgaria between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Europe/Sofia timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724446800,
+        "end_date": 1724705999,
+        "answer": 1
+      },
+      {
+        "event_id": "9a43d444-8187-44d8-b48a-1af6fd504746",
+        "cutoff": 1724449800,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724450400,
+        "end_date": 1724709599,
+        "answer": 0
+      },
+      {
+        "event_id": "eb4ebbe8-fe18-4e1d-8f3b-948fcc0178fd",
+        "cutoff": 1724437200,
+        "title": "Will the amount of peaceful protests in Sri Lanka be above 3 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Sri Lanka between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Asia/Colombo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724437800,
+        "end_date": 1724696999,
+        "answer": 0
+      },
+      {
+        "event_id": "f38f9546-d0af-42f9-9291-f38c7922ea8f",
+        "cutoff": 1724446200,
+        "title": "Will the amount of peaceful protests in Palestine be above 4 for the duration 2024-08-24 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Palestine between the following dates, from 2024-08-24  00:00:00 to 2024-08-26  23:59:59 in Asia/Gaza timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724446800,
+        "end_date": 1724705999,
+        "answer": 0
+      },
+      {
+        "event_id": "283f3780-f9ba-4af6-8ca6-7bcbaf6280b4",
+        "cutoff": 1724338200,
+        "title": "Will the amount of peaceful protests in South Korea be above 25 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of South Korea between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Asia/Seoul timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724338800,
+        "end_date": 1724597999,
+        "answer": 1
+      },
+      {
+        "event_id": "3a270741-d35c-4078-bc63-87dc7bed7389",
+        "cutoff": 1724367000,
+        "title": "Will the amount of peaceful protests in Ireland be above 2 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Ireland between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Europe/Dublin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724367600,
+        "end_date": 1724626799,
+        "answer": 1
+      },
+      {
+        "event_id": "6c1a305c-b656-4ffb-b004-9ee8c8a46da9",
+        "cutoff": 1724349000,
+        "title": "Will the amount of peaceful protests in Bangladesh be above 11 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 12 peaceful protests, for the country of Bangladesh between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Asia/Dhaka timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724349600,
+        "end_date": 1724608799,
+        "answer": 1
+      },
+      {
+        "event_id": "74026741-b937-4b56-ae7a-483ce096969d",
+        "cutoff": 1724363400,
+        "title": "Will the amount of peaceful protests in Spain be above 10 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Spain between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Europe/Madrid timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724364000,
+        "end_date": 1724623199,
+        "answer": 1
+      },
+      {
+        "event_id": "8aa3e008-4f34-43ab-a18e-d490964ff700",
+        "cutoff": 1724363400,
+        "title": "Will the amount of peaceful protests in Austria be above 0 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Austria between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Europe/Vienna timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724364000,
+        "end_date": 1724623199,
+        "answer": 1
+      },
+      {
+        "event_id": "977e2c07-ea7e-4ddc-a706-fc52b8bccbab",
+        "cutoff": 1724385000,
+        "title": "Will the amount of peaceful protests in Venezuela be above 16 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 17 peaceful protests, for the country of Venezuela between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in America/Caracas timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724385600,
+        "end_date": 1724644799,
+        "answer": 0
+      },
+      {
+        "event_id": "a0163a2e-87f3-4c3d-8290-e018625eb463",
+        "cutoff": 1724363400,
+        "title": "Will the amount of peaceful protests in Germany be above 8 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Germany between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Europe/Berlin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724364000,
+        "end_date": 1724623199,
+        "answer": 1
+      },
+      {
+        "event_id": "e38f39f2-db8b-4239-9750-e65e0dd85575",
+        "cutoff": 1724359800,
+        "title": "Will the amount of peaceful protests in Syria be above 10 for the duration 2024-08-23 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Syria between the following dates, from 2024-08-23  00:00:00 to 2024-08-25  23:59:59 in Asia/Damascus timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724360400,
+        "end_date": 1724619599,
+        "answer": 1
+      },
+      {
+        "event_id": "26e44f0c-d008-4832-9d8c-b86988fe91ce",
+        "cutoff": 1724273400,
+        "title": "Will the amount of peaceful protests in Greece be above 0 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Greece between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in Europe/Athens timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724274000,
+        "end_date": 1724533199,
+        "answer": 1
+      },
+      {
+        "event_id": "3fb28b0f-6424-4200-ad2b-05236ae21014",
+        "cutoff": 1724251800,
+        "title": "Will the amount of peaceful protests in Japan be above 8 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of Japan between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in Asia/Tokyo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724252400,
+        "end_date": 1724511599,
+        "answer": 1
+      },
+      {
+        "event_id": "84be6f8e-c5e2-468e-9dcf-d9e1d303af39",
+        "cutoff": 1724302200,
+        "title": "Will the amount of peaceful protests in Ecuador be above 1 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Ecuador between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in America/Guayaquil timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724302800,
+        "end_date": 1724561999,
+        "answer": 0
+      },
+      {
+        "event_id": "a99578b9-77e7-49a2-86da-1282b1ef99cf",
+        "cutoff": 1724298600,
+        "title": "Will the amount of peaceful protests in United States be above 40 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 41 peaceful protests, for the country of United States between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in America/New_York timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724299200,
+        "end_date": 1724558399,
+        "answer": 1
+      },
+      {
+        "event_id": "db4209ca-9613-4b1f-967e-7c4adaf81668",
+        "cutoff": 1724302200,
+        "title": "Will the amount of peaceful protests in Colombia be above 11 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 12 peaceful protests, for the country of Colombia between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in America/Bogota timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724302800,
+        "end_date": 1724561999,
+        "answer": 1
+      },
+      {
+        "event_id": "e387c646-ad83-47f3-911a-26ab8b37db7a",
+        "cutoff": 1724273400,
+        "title": "Will the amount of peaceful protests in Romania be above 0 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Romania between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in Europe/Bucharest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724274000,
+        "end_date": 1724533199,
+        "answer": 1
+      },
+      {
+        "event_id": "e48fc4ee-64b1-4135-9bfa-460a2f17fd56",
+        "cutoff": 1724277000,
+        "title": "Will the amount of peaceful protests in Italy be above 11 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 12 peaceful protests, for the country of Italy between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in Europe/Rome timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724277600,
+        "end_date": 1724536799,
+        "answer": 1
+      },
+      {
+        "event_id": "e6a65762-047a-4476-9e7a-5a791910f737",
+        "cutoff": 1724277000,
+        "title": "Will the amount of peaceful protests in Sweden be above 4 for the duration 2024-08-22 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Sweden between the following dates, from 2024-08-22  00:00:00 to 2024-08-24  23:59:59 in Europe/Stockholm timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724277600,
+        "end_date": 1724536799,
+        "answer": 1
+      },
+      {
+        "event_id": "3ce0bac0-66a1-410c-bd06-a09768dd64bb",
+        "cutoff": 1724205000,
+        "title": "Will the amount of peaceful protests in Brazil be above 5 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Brazil between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in America/Noronha timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724205600,
+        "end_date": 1724464799,
+        "answer": 0
+      },
+      {
+        "event_id": "4f054ffa-fe1f-467c-8683-fb69525fb476",
+        "cutoff": 1724212200,
+        "title": "Will the amount of peaceful protests in Paraguay be above 4 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Paraguay between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in America/Asuncion timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724212800,
+        "end_date": 1724471999,
+        "answer": 1
+      },
+      {
+        "event_id": "53cd4271-c91a-4e31-904c-20179eb4b2d9",
+        "cutoff": 1724208600,
+        "title": "Will the amount of peaceful protests in Argentina be above 6 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Argentina between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in America/Argentina/Buenos_Aires timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724209200,
+        "end_date": 1724468399,
+        "answer": 0
+      },
+      {
+        "event_id": "626a349e-697c-4fc1-91a9-6ffa7ef86c23",
+        "cutoff": 1724187000,
+        "title": "Will the amount of peaceful protests in Yemen be above 89 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 90 peaceful protests, for the country of Yemen between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in Asia/Aden timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724187600,
+        "end_date": 1724446799,
+        "answer": 1
+      },
+      {
+        "event_id": "9265a718-4f50-47d7-ab79-e73bff35b8bc",
+        "cutoff": 1724215800,
+        "title": "Will the amount of peaceful protests in Peru be above 7 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Peru between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in America/Lima timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724216400,
+        "end_date": 1724475599,
+        "answer": 1
+      },
+      {
+        "event_id": "95eba0a6-af88-4764-aaef-ad041890f9ac",
+        "cutoff": 1724172600,
+        "title": "Will the amount of peaceful protests in Indonesia be above 19 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 20 peaceful protests, for the country of Indonesia between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in Asia/Jakarta timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724173200,
+        "end_date": 1724432399,
+        "answer": 1
+      },
+      {
+        "event_id": "e354567f-3f37-4ef8-8c62-f891158485d8",
+        "cutoff": 1724187000,
+        "title": "Will the amount of peaceful protests in Bahrain be above 6 for the duration 2024-08-21 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Bahrain between the following dates, from 2024-08-21  00:00:00 to 2024-08-23  23:59:59 in Asia/Bahrain timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724187600,
+        "end_date": 1724446799,
+        "answer": 0
+      },
+      {
+        "event_id": "07844acd-9a6b-48bd-ac42-915695f8c660",
+        "cutoff": 1724125800,
+        "title": "Will the amount of peaceful protests in Chile be above 10 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Chile between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in America/Santiago timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724126400,
+        "end_date": 1724385599,
+        "answer": 1
+      },
+      {
+        "event_id": "343167c3-d245-4ceb-bf46-886be74c0b1f",
+        "cutoff": 1724091600,
+        "title": "Will the amount of peaceful protests in India be above 130 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 131 peaceful protests, for the country of India between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Asia/Kolkata timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724092200,
+        "end_date": 1724351399,
+        "answer": 1
+      },
+      {
+        "event_id": "6effa1e1-bd32-4f9c-93ba-5a418060b0c0",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Czech Republic be above 0 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Czech Republic between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Europe/Prague timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724363999,
+        "answer": 1
+      },
+      {
+        "event_id": "95afa52b-2556-418f-9280-579411498ac9",
+        "cutoff": 1724100600,
+        "title": "Will the amount of peaceful protests in Turkey be above 34 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 35 peaceful protests, for the country of Turkey between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Europe/Istanbul timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724101200,
+        "end_date": 1724360399,
+        "answer": 1
+      },
+      {
+        "event_id": "9bbf1906-56bf-4d7b-a9a5-5afb5723ca12",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Poland be above 3 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Poland between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Europe/Warsaw timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724363999,
+        "answer": 1
+      },
+      {
+        "event_id": "ad50fb09-47f4-4efa-a36e-83d2663923c7",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Netherlands be above 1 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Netherlands between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Europe/Amsterdam timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724363999,
+        "answer": 0
+      },
+      {
+        "event_id": "b08ce37a-2b11-4108-a91f-1a5d870cb209",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Serbia be above 4 for the duration 2024-08-20 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Serbia between the following dates, from 2024-08-20  00:00:00 to 2024-08-22  23:59:59 in Europe/Belgrade timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724363999,
+        "answer": 1
+      },
+      {
+        "event_id": "214d0bfe-cc49-456f-9c1b-019e574b27cf",
+        "cutoff": 1724277000,
+        "title": "Will the amount of peaceful protests in France be above 37 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 38 peaceful protests, for the country of France between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724277600,
+        "end_date": 1724882399,
+        "answer": 0
+      },
+      {
+        "event_id": "2451c64e-2f7e-4813-b78d-5c7c4bd9881a",
+        "cutoff": 1724273400,
+        "title": "Will the amount of peaceful protests in Kenya be above 23 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 24 peaceful protests, for the country of Kenya between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Africa/Nairobi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724274000,
+        "end_date": 1724878799,
+        "answer": 1
+      },
+      {
+        "event_id": "afa03577-62b7-4855-abc1-a49a17123268",
+        "cutoff": 1724277000,
+        "title": "Will the amount of peaceful protests in Denmark be above 2 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Denmark between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724277600,
+        "end_date": 1724882399,
+        "answer": 0
+      },
+      {
+        "event_id": "b1b87c95-e894-460c-9386-00836c2086fe",
+        "cutoff": 1724273400,
+        "title": "Will the amount of peaceful protests in Israel be above 23 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 24 peaceful protests, for the country of Israel between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Asia/Jerusalem timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724274000,
+        "end_date": 1724878799,
+        "answer": 0
+      },
+      {
+        "event_id": "b1d4b136-f295-49e7-9f05-65a7823ab3f9",
+        "cutoff": 1724280600,
+        "title": "Will the amount of peaceful protests in Tunisia be above 7 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Tunisia between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Africa/Tunis timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724281200,
+        "end_date": 1724885999,
+        "answer": 1
+      },
+      {
+        "event_id": "b5582066-850f-4aff-abb8-1358ca85876f",
+        "cutoff": 1724271600,
+        "title": "Will the amount of peaceful protests in Iran be above 57 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 58 peaceful protests, for the country of Iran between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Asia/Tehran timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724272200,
+        "end_date": 1724876999,
+        "answer": 1
+      },
+      {
+        "event_id": "bd24b722-41ac-4ee7-8f1e-c1b08eb7e663",
+        "cutoff": 1724255400,
+        "title": "Will the amount of peaceful protests in Taiwan be above 14 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 15 peaceful protests, for the country of Taiwan between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Asia/Taipei timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724256000,
+        "end_date": 1724860799,
+        "answer": 1
+      },
+      {
+        "event_id": "f78f320b-8b1c-4f80-9eef-82e54bdf1e9c",
+        "cutoff": 1724280600,
+        "title": "Will the amount of peaceful protests in Morocco be above 66 for the duration 2024-08-22 to 2024-08-28?",
+        "description": "This event resolves to `YES` if there are at least 67 peaceful protests, for the country of Morocco between the following dates, from 2024-08-22  00:00:00 to 2024-08-28  23:59:59 in Africa/Casablanca timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724281200,
+        "end_date": 1724885999,
+        "answer": 0
+      },
+      {
+        "event_id": "577d5d85-2f40-4f21-bf1a-374dfc00d4d1",
+        "cutoff": 1723935000,
+        "title": "Will the amount of peaceful protests in Tunisia be above 3 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Tunisia between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Africa/Tunis timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723935600,
+        "end_date": 1724194799,
+        "answer": 1
+      },
+      {
+        "event_id": "77868f07-424d-405a-9ab1-f0761df7163f",
+        "cutoff": 1723927800,
+        "title": "Will the amount of peaceful protests in Kenya be above 9 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Kenya between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Africa/Nairobi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723928400,
+        "end_date": 1724187599,
+        "answer": 1
+      },
+      {
+        "event_id": "9030d218-5829-4502-b56d-f1d5d3f902ca",
+        "cutoff": 1723935000,
+        "title": "Will the amount of peaceful protests in Morocco be above 25 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of Morocco between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Africa/Casablanca timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723935600,
+        "end_date": 1724194799,
+        "answer": 0
+      },
+      {
+        "event_id": "b096fecb-f8d4-4941-a729-103664f2c1a8",
+        "cutoff": 1723926000,
+        "title": "Will the amount of peaceful protests in Iran be above 25 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of Iran between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Asia/Tehran timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723926600,
+        "end_date": 1724185799,
+        "answer": 1
+      },
+      {
+        "event_id": "c5fa9aee-729b-4244-adff-daf35ceb7cf2",
+        "cutoff": 1723931400,
+        "title": "Will the amount of peaceful protests in France be above 16 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 17 peaceful protests, for the country of France between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723932000,
+        "end_date": 1724191199,
+        "answer": 1
+      },
+      {
+        "event_id": "c8fb6dcc-bd5c-45a7-8bd1-d7df2d831e90",
+        "cutoff": 1723909800,
+        "title": "Will the amount of peaceful protests in Taiwan be above 5 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Taiwan between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Asia/Taipei timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723910400,
+        "end_date": 1724169599,
+        "answer": 1
+      },
+      {
+        "event_id": "e6ba3814-e3b5-4785-a1d3-6b49462afc97",
+        "cutoff": 1723931400,
+        "title": "Will the amount of peaceful protests in Denmark be above 1 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Denmark between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723932000,
+        "end_date": 1724191199,
+        "answer": 1
+      },
+      {
+        "event_id": "ecc5cf1f-9df9-472c-8b9f-0e84efdb1334",
+        "cutoff": 1723927800,
+        "title": "Will the amount of peaceful protests in Israel be above 10 for the duration 2024-08-18 to 2024-08-20?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Israel between the following dates, from 2024-08-18  00:00:00 to 2024-08-20  23:59:59 in Asia/Jerusalem timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723928400,
+        "end_date": 1724187599,
+        "answer": 1
+      },
+      {
+        "event_id": "068e78cf-1c37-4673-ba38-20518ad7c165",
+        "cutoff": 1724178000,
+        "title": "Will the amount of peaceful protests in Sri Lanka be above 9 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Sri Lanka between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Asia/Colombo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724178600,
+        "end_date": 1724783399,
+        "answer": 0
+      },
+      {
+        "event_id": "1bf33fd3-fb7d-43f2-bebb-a26d060d06f0",
+        "cutoff": 1724187000,
+        "title": "Will the amount of peaceful protests in Palestine be above 9 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Palestine between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Asia/Gaza timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724187600,
+        "end_date": 1724792399,
+        "answer": 0
+      },
+      {
+        "event_id": "42068b50-9e85-4a66-aefb-81359dc3a0e0",
+        "cutoff": 1724177100,
+        "title": "Will the amount of peaceful protests in Nepal be above 13 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 14 peaceful protests, for the country of Nepal between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Asia/Kathmandu timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724177700,
+        "end_date": 1724782499,
+        "answer": 1
+      },
+      {
+        "event_id": "6e4e3581-a916-49c2-83ec-a3970561d4fc",
+        "cutoff": 1724190600,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724191200,
+        "end_date": 1724795999,
+        "answer": 1
+      },
+      {
+        "event_id": "98d6f058-389c-4aea-912e-f5d3a763c267",
+        "cutoff": 1724219400,
+        "title": "Will the amount of peaceful protests in Honduras be above 12 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 13 peaceful protests, for the country of Honduras between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in America/Tegucigalpa timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724220000,
+        "end_date": 1724824799,
+        "answer": 0
+      },
+      {
+        "event_id": "a9f93559-7a0d-4d1d-aa24-8e872819e161",
+        "cutoff": 1724194200,
+        "title": "Will the amount of peaceful protests in Nigeria be above 14 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 15 peaceful protests, for the country of Nigeria between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Africa/Lagos timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724194800,
+        "end_date": 1724799599,
+        "answer": 0
+      },
+      {
+        "event_id": "d941e6bd-934c-4383-a54b-cf5bb78fcfb3",
+        "cutoff": 1724187000,
+        "title": "Will the amount of peaceful protests in Bulgaria be above 7 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Bulgaria between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Europe/Sofia timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724187600,
+        "end_date": 1724792399,
+        "answer": 1
+      },
+      {
+        "event_id": "dc7a732e-e0ac-4da7-85af-8143d1a4c9ae",
+        "cutoff": 1724179800,
+        "title": "Will the amount of peaceful protests in Pakistan be above 106 for the duration 2024-08-21 to 2024-08-27?",
+        "description": "This event resolves to `YES` if there are at least 107 peaceful protests, for the country of Pakistan between the following dates, from 2024-08-21  00:00:00 to 2024-08-27  23:59:59 in Asia/Karachi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724180400,
+        "end_date": 1724785199,
+        "answer": 1
+      },
+      {
+        "event_id": "24cff6c3-4a55-4766-9181-c9bd6be750a5",
+        "cutoff": 1723841400,
+        "title": "Will the amount of peaceful protests in Bulgaria be above 3 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Bulgaria between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Europe/Sofia timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723842000,
+        "end_date": 1724101199,
+        "answer": 0
+      },
+      {
+        "event_id": "2bfbb899-f8c8-45a0-8861-c60998f73c98",
+        "cutoff": 1723834200,
+        "title": "Will the amount of peaceful protests in Pakistan be above 45 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 46 peaceful protests, for the country of Pakistan between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Asia/Karachi timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723834800,
+        "end_date": 1724093999,
+        "answer": 1
+      },
+      {
+        "event_id": "3979ed47-995f-44eb-868d-80ec8c24a50c",
+        "cutoff": 1723845000,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723845600,
+        "end_date": 1724104799,
+        "answer": 0
+      },
+      {
+        "event_id": "599d3f1e-f7eb-4b26-b056-9c33a2085cc2",
+        "cutoff": 1723831500,
+        "title": "Will the amount of peaceful protests in Nepal be above 5 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Nepal between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Asia/Kathmandu timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723832100,
+        "end_date": 1724091299,
+        "answer": 1
+      },
+      {
+        "event_id": "cbd2d7ac-2fe5-49ad-adca-745f78fcb308",
+        "cutoff": 1723841400,
+        "title": "Will the amount of peaceful protests in Palestine be above 4 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Palestine between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Asia/Gaza timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723842000,
+        "end_date": 1724101199,
+        "answer": 0
+      },
+      {
+        "event_id": "cbe620d5-3031-4186-badb-4ddcb3f0aef4",
+        "cutoff": 1723848600,
+        "title": "Will the amount of peaceful protests in Nigeria be above 5 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Nigeria between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Africa/Lagos timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723849200,
+        "end_date": 1724108399,
+        "answer": 0
+      },
+      {
+        "event_id": "de0a9a7a-4452-4119-b197-d29ad4ea3821",
+        "cutoff": 1723832400,
+        "title": "Will the amount of peaceful protests in Sri Lanka be above 3 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Sri Lanka between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in Asia/Colombo timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723833000,
+        "end_date": 1724092199,
+        "answer": 0
+      },
+      {
+        "event_id": "e0270de5-62b0-45dd-9138-f46e7294b342",
+        "cutoff": 1723873800,
+        "title": "Will the amount of peaceful protests in Honduras be above 5 for the duration 2024-08-17 to 2024-08-19?",
+        "description": "This event resolves to `YES` if there are at least 6 peaceful protests, for the country of Honduras between the following dates, from 2024-08-17  00:00:00 to 2024-08-19  23:59:59 in America/Tegucigalpa timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723874400,
+        "end_date": 1724133599,
+        "answer": 0
+      },
+      {
+        "event_id": "6b3159ae-1b93-430d-bf98-2871f50f22be",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Sweden be above 9 for the duration 2024-08-20 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 10 peaceful protests, for the country of Sweden between the following dates, from 2024-08-20  00:00:00 to 2024-08-26  23:59:59 in Europe/Stockholm timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724709599,
+        "answer": 1
+      },
+      {
+        "event_id": "73527722-3c7c-4035-87d8-14141d0cef4a",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Austria be above 2 for the duration 2024-08-20 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Austria between the following dates, from 2024-08-20  00:00:00 to 2024-08-26  23:59:59 in Europe/Vienna timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724709599,
+        "answer": 1
+      },
+      {
+        "event_id": "fe5c7ce5-8d60-4c28-9df5-103638029f2e",
+        "cutoff": 1724104200,
+        "title": "Will the amount of peaceful protests in Spain be above 25 for the duration 2024-08-20 to 2024-08-26?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of Spain between the following dates, from 2024-08-20  00:00:00 to 2024-08-26  23:59:59 in Europe/Madrid timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724104800,
+        "end_date": 1724709599,
+        "answer": 1
+      },
+      {
+        "event_id": "1aa07467-78d2-473e-98ec-5e191901b322",
+        "cutoff": 1723758600,
+        "title": "Will the amount of peaceful protests in Sweden be above 4 for the duration 2024-08-16 to 2024-08-18?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Sweden between the following dates, from 2024-08-16  00:00:00 to 2024-08-18  23:59:59 in Europe/Stockholm timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723759200,
+        "end_date": 1724018399,
+        "answer": 1
+      },
+      {
+        "event_id": "2f226397-9d82-4606-bb58-725289f6d14c",
+        "cutoff": 1723758600,
+        "title": "Will the amount of peaceful protests in Spain be above 10 for the duration 2024-08-16 to 2024-08-18?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Spain between the following dates, from 2024-08-16  00:00:00 to 2024-08-18  23:59:59 in Europe/Madrid timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723759200,
+        "end_date": 1724018399,
+        "answer": 1
+      },
+      {
+        "event_id": "3f8a139a-6d08-48e9-abb5-d8512cf88409",
+        "cutoff": 1723758600,
+        "title": "Will the amount of peaceful protests in Austria be above 1 for the duration 2024-08-16 to 2024-08-18?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Austria between the following dates, from 2024-08-16  00:00:00 to 2024-08-18  23:59:59 in Europe/Vienna timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723759200,
+        "end_date": 1724018399,
+        "answer": 0
+      },
+      {
+        "event_id": "0493bfc7-90cf-4ce2-a858-24ab1e84d995",
+        "cutoff": 1724017800,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-19 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-19  00:00:00 to 2024-08-25  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724018400,
+        "end_date": 1724623199,
+        "answer": 1
+      },
+      {
+        "event_id": "3c52de41-a909-41a6-a156-95dfdc189f46",
+        "cutoff": 1724014200,
+        "title": "Will the amount of peaceful protests in Greece be above 3 for the duration 2024-08-19 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Greece between the following dates, from 2024-08-19  00:00:00 to 2024-08-25  23:59:59 in Europe/Athens timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724014800,
+        "end_date": 1724619599,
+        "answer": 0
+      },
+      {
+        "event_id": "420d607f-cbd8-4bb5-a0d7-65fd4d2a213a",
+        "cutoff": 1724014200,
+        "title": "Will the amount of peaceful protests in Romania be above 1 for the duration 2024-08-19 to 2024-08-25?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Romania between the following dates, from 2024-08-19  00:00:00 to 2024-08-25  23:59:59 in Europe/Bucharest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1724014800,
+        "end_date": 1724619599,
+        "answer": 1
+      },
+      {
+        "event_id": "1f9705ce-be21-4790-9fbd-3f8fc4928e3d",
+        "cutoff": 1723668600,
+        "title": "Will the amount of peaceful protests in Romania be above 0 for the duration 2024-08-15 to 2024-08-17?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Romania between the following dates, from 2024-08-15  00:00:00 to 2024-08-17  23:59:59 in Europe/Bucharest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723669200,
+        "end_date": 1723928399,
+        "answer": 0
+      },
+      {
+        "event_id": "7905d6df-088e-41aa-be14-87c5a9a32f15",
+        "cutoff": 1723668600,
+        "title": "Will the amount of peaceful protests in Greece be above 1 for the duration 2024-08-15 to 2024-08-17?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Greece between the following dates, from 2024-08-15  00:00:00 to 2024-08-17  23:59:59 in Europe/Athens timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723669200,
+        "end_date": 1723928399,
+        "answer": 0
+      },
+      {
+        "event_id": "8187f6ee-ec3e-4a0e-8dac-48357a1bb232",
+        "cutoff": 1723672200,
+        "title": "Will the amount of peaceful protests in Hungary be above 0 for the duration 2024-08-15 to 2024-08-17?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Hungary between the following dates, from 2024-08-15  00:00:00 to 2024-08-17  23:59:59 in Europe/Budapest timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723672800,
+        "end_date": 1723931999,
+        "answer": 0
+      },
+      {
+        "event_id": "751c5062-f5f4-45f6-81d5-e550a2c6605b",
+        "cutoff": 1723935000,
+        "title": "Will the amount of peaceful protests in Ireland be above 11 for the duration 2024-08-18 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 12 peaceful protests, for the country of Ireland between the following dates, from 2024-08-18  00:00:00 to 2024-08-24  23:59:59 in Europe/Dublin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723935600,
+        "end_date": 1724540399,
+        "answer": 0
+      },
+      {
+        "event_id": "ec3a2fae-91e4-4f7b-856a-26e42f60aa3a",
+        "cutoff": 1723935000,
+        "title": "Will the amount of peaceful protests in Portugal be above 4 for the duration 2024-08-18 to 2024-08-24?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Portugal between the following dates, from 2024-08-18  00:00:00 to 2024-08-24  23:59:59 in Europe/Lisbon timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723935600,
+        "end_date": 1724540399,
+        "answer": 1
+      },
+      {
+        "event_id": "5945b5ea-99ef-47f4-a0b3-98cabd568c1b",
+        "cutoff": 1723589400,
+        "title": "Will the amount of peaceful protests in Portugal be above 1 for the duration 2024-08-14 to 2024-08-16?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Portugal between the following dates, from 2024-08-14  00:00:00 to 2024-08-16  23:59:59 in Europe/Lisbon timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723590000,
+        "end_date": 1723849199,
+        "answer": 1
+      },
+      {
+        "event_id": "f3f38cb8-6af3-4ab3-84fb-fcd7863c9314",
+        "cutoff": 1723589400,
+        "title": "Will the amount of peaceful protests in Ireland be above 4 for the duration 2024-08-14 to 2024-08-16?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Ireland between the following dates, from 2024-08-14  00:00:00 to 2024-08-16  23:59:59 in Europe/Dublin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723590000,
+        "end_date": 1723849199,
+        "answer": 0
+      },
+      {
+        "event_id": "40b138c0-e43d-484d-ae46-2e3b5e2de761",
+        "cutoff": 1723845000,
+        "title": "Will the amount of peaceful protests in Denmark be above 1 for the duration 2024-08-17 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Denmark between the following dates, from 2024-08-17  00:00:00 to 2024-08-23  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723845600,
+        "end_date": 1724450399,
+        "answer": 1
+      },
+      {
+        "event_id": "6a8e5624-50a1-4474-9183-ea36d542abc9",
+        "cutoff": 1723845000,
+        "title": "Will the amount of peaceful protests in Poland be above 7 for the duration 2024-08-17 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 8 peaceful protests, for the country of Poland between the following dates, from 2024-08-17  00:00:00 to 2024-08-23  23:59:59 in Europe/Warsaw timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723845600,
+        "end_date": 1724450399,
+        "answer": 0
+      },
+      {
+        "event_id": "72df5a25-e90f-46e1-b187-b8c139099386",
+        "cutoff": 1723845000,
+        "title": "Will the amount of peaceful protests in Italy be above 33 for the duration 2024-08-17 to 2024-08-23?",
+        "description": "This event resolves to `YES` if there are at least 34 peaceful protests, for the country of Italy between the following dates, from 2024-08-17  00:00:00 to 2024-08-23  23:59:59 in Europe/Rome timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723845600,
+        "end_date": 1724450399,
+        "answer": 0
+      },
+      {
+        "event_id": "2a24d3d5-e9a4-4a24-bb6e-ed8c6d75e28e",
+        "cutoff": 1723499400,
+        "title": "Will the amount of peaceful protests in Poland be above 3 for the duration 2024-08-13 to 2024-08-15?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of Poland between the following dates, from 2024-08-13  00:00:00 to 2024-08-15  23:59:59 in Europe/Warsaw timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723500000,
+        "end_date": 1723759199,
+        "answer": 0
+      },
+      {
+        "event_id": "81f00dff-e621-4115-9d7a-7bf85ab97aa4",
+        "cutoff": 1723499400,
+        "title": "Will the amount of peaceful protests in Denmark be above 0 for the duration 2024-08-13 to 2024-08-15?",
+        "description": "This event resolves to `YES` if there are at least 1 peaceful protests, for the country of Denmark between the following dates, from 2024-08-13  00:00:00 to 2024-08-15  23:59:59 in Europe/Copenhagen timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723500000,
+        "end_date": 1723759199,
+        "answer": 1
+      },
+      {
+        "event_id": "ee008f12-fddd-41d5-8e84-8f37322511ef",
+        "cutoff": 1723499400,
+        "title": "Will the amount of peaceful protests in Italy be above 13 for the duration 2024-08-13 to 2024-08-15?",
+        "description": "This event resolves to `YES` if there are at least 14 peaceful protests, for the country of Italy between the following dates, from 2024-08-13  00:00:00 to 2024-08-15  23:59:59 in Europe/Rome timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723500000,
+        "end_date": 1723759199,
+        "answer": 0
+      },
+      {
+        "event_id": "1f526de5-830f-4aa4-9e85-4e9048c49ba4",
+        "cutoff": 1723758600,
+        "title": "Will the amount of peaceful protests in Germany be above 25 for the duration 2024-08-16 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 26 peaceful protests, for the country of Germany between the following dates, from 2024-08-16  00:00:00 to 2024-08-22  23:59:59 in Europe/Berlin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723759200,
+        "end_date": 1724363999,
+        "answer": 1
+      },
+      {
+        "event_id": "811ec3f0-c928-499d-ac00-06fc5856ae78",
+        "cutoff": 1723758600,
+        "title": "Will the amount of peaceful protests in Netherlands be above 4 for the duration 2024-08-16 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 5 peaceful protests, for the country of Netherlands between the following dates, from 2024-08-16  00:00:00 to 2024-08-22  23:59:59 in Europe/Amsterdam timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723759200,
+        "end_date": 1724363999,
+        "answer": 0
+      },
+      {
+        "event_id": "d0fcb43d-9d9a-49a7-8878-9e2f6388daee",
+        "cutoff": 1723762200,
+        "title": "Will the amount of peaceful protests in United Kingdom be above 8 for the duration 2024-08-16 to 2024-08-22?",
+        "description": "This event resolves to `YES` if there are at least 9 peaceful protests, for the country of United Kingdom between the following dates, from 2024-08-16  00:00:00 to 2024-08-22  23:59:59 in Europe/London timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723762800,
+        "end_date": 1724367599,
+        "answer": 1
+      },
+      {
+        "event_id": "4e95a415-0aa5-4575-aa8d-e4da81376553",
+        "cutoff": 1723413000,
+        "title": "Will the amount of peaceful protests in Germany be above 10 for the duration 2024-08-12 to 2024-08-14?",
+        "description": "This event resolves to `YES` if there are at least 11 peaceful protests, for the country of Germany between the following dates, from 2024-08-12  00:00:00 to 2024-08-14  23:59:59 in Europe/Berlin timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723413600,
+        "end_date": 1723672799,
+        "answer": 0
+      },
+      {
+        "event_id": "925366e8-2b86-4528-b015-1f228b7767f9",
+        "cutoff": 1723416600,
+        "title": "Will the amount of peaceful protests in United Kingdom be above 3 for the duration 2024-08-12 to 2024-08-14?",
+        "description": "This event resolves to `YES` if there are at least 4 peaceful protests, for the country of United Kingdom between the following dates, from 2024-08-12  00:00:00 to 2024-08-14  23:59:59 in Europe/London timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723417200,
+        "end_date": 1723676399,
+        "answer": 1
+      },
+      {
+        "event_id": "a9f7c16e-40aa-42bc-ba78-02fc76558788",
+        "cutoff": 1723413000,
+        "title": "Will the amount of peaceful protests in Netherlands be above 1 for the duration 2024-08-12 to 2024-08-14?",
+        "description": "This event resolves to `YES` if there are at least 2 peaceful protests, for the country of Netherlands between the following dates, from 2024-08-12  00:00:00 to 2024-08-14  23:59:59 in Europe/Amsterdam timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723413600,
+        "end_date": 1723672799,
+        "answer": 1
+      },
+      {
+        "event_id": "c09d9feb-120f-4a14-a232-d52075ecb211",
+        "cutoff": 1723693800,
+        "title": "Will the amount of peaceful protests in United States be above 106 for the duration 2024-08-15 to 2024-08-21?",
+        "description": "This event resolves to `YES` if there are at least 107 peaceful protests, for the country of United States between the following dates, from 2024-08-15  00:00:00 to 2024-08-21  23:59:59 in America/New_York timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723694400,
+        "end_date": 1724299199,
+        "answer": 1
+      },
+      {
+        "event_id": "cb840f5e-12d4-44e2-8ddb-9ccd205272f6",
+        "cutoff": 1723672200,
+        "title": "Will the amount of peaceful protests in Serbia be above 6 for the duration 2024-08-15 to 2024-08-21?",
+        "description": "This event resolves to `YES` if there are at least 7 peaceful protests, for the country of Serbia between the following dates, from 2024-08-15  00:00:00 to 2024-08-21  23:59:59 in Europe/Belgrade timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723672800,
+        "end_date": 1724277599,
+        "answer": 0
+      },
+      {
+        "event_id": "cf0fd6a2-2b61-4645-af66-9ec1c2af7329",
+        "cutoff": 1723672200,
+        "title": "Will the amount of peaceful protests in France be above 44 for the duration 2024-08-15 to 2024-08-21?",
+        "description": "This event resolves to `YES` if there are at least 45 peaceful protests, for the country of France between the following dates, from 2024-08-15  00:00:00 to 2024-08-21  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723672800,
+        "end_date": 1724277599,
+        "answer": 0
+      },
+      {
+        "event_id": "195e831d-6eaf-4de0-b035-6a491e46c31b",
+        "cutoff": 1723326600,
+        "title": "Will the amount of peaceful protests in Serbia be above 2 for the duration 2024-08-11 to 2024-08-13?",
+        "description": "This event resolves to `YES` if there are at least 3 peaceful protests, for the country of Serbia between the following dates, from 2024-08-11  00:00:00 to 2024-08-13  23:59:59 in Europe/Belgrade timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723327200,
+        "end_date": 1723586399,
+        "answer": 1
+      },
+      {
+        "event_id": "e9e87edc-88bf-408a-a264-cd4b931eb8b9",
+        "cutoff": 1723348200,
+        "title": "Will the amount of peaceful protests in United States be above 46 for the duration 2024-08-11 to 2024-08-13?",
+        "description": "This event resolves to `YES` if there are at least 47 peaceful protests, for the country of United States between the following dates, from 2024-08-11  00:00:00 to 2024-08-13  23:59:59 in America/New_York timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723348800,
+        "end_date": 1723607999,
+        "answer": 1
+      },
+      {
+        "event_id": "f5fc7e10-5807-48ec-acba-b545710f904d",
+        "cutoff": 1723326600,
+        "title": "Will the amount of peaceful protests in France be above 16 for the duration 2024-08-11 to 2024-08-13?",
+        "description": "This event resolves to `YES` if there are at least 17 peaceful protests, for the country of France between the following dates, from 2024-08-11  00:00:00 to 2024-08-13  23:59:59 in Europe/Paris timezone. A peaceful protest is when demonstrators gather for a protest and do not engage in violence or other forms of rioting activity, such as property destruction, and are not met with any sort of force or intervention. We use ACLED (https://acleddata.com/) as the source of ground truth",
+        "market_type": "ACLED",
+        "start_date": 1723327200,
+        "end_date": 1723586399,
+        "answer": 0
+      }
+    ],
+    "next_offset": 186
+  }

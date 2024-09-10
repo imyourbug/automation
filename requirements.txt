@@ -1,0 +1,2 @@
+urllib3==1.26.2
+Appium-Python-Client==1.0.1
